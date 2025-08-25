@@ -1,6 +1,6 @@
 # 📚 AI Papers I’m Reading
 
-A curated list of papers I’ve read (or plan to read) in **AI, LLMs, Reinforcement Learning, Federated Learning, Agentic AI, and Computer Vision**, with short notes for context.  
+A curated list of papers I’ve read (or plan to read) in **AI, LLMs, Reinforcement Learning, Federated Learning, Agentic AI, Computer Vision, and Meta Learning**, with short notes for context.  
 This serves as my personal learning log and a reference for others interested in applied AI research.  
 
 ---
@@ -60,6 +60,10 @@ This serves as my personal learning log and a reference for others interested in
   → Framework for multi-agent orchestration of LLMs.  
 
 ---
+
+## 🔹 Meta-Learning
+- [Learning to Learn by Gradient Descent by Gradient Descent (Andrychowicz et al., 2016)](https://arxiv.org/abs/1606.04474)  
+  → Introduced meta-learning where an optimizer itself is learned through gradient descent.  
 
 ## 📌 Goal
 This repository is my personal learning log to stay engaged with key AI research.  
