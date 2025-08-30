@@ -48,6 +48,9 @@ This serves as my personal learning log and a reference for others interested in
   → Introduced KL-constrained updates for stable policy learning, precursor to PPO.
 - [Generalized Advantage Estimation (GAE, Schulman et al., 2015)](https://arxiv.org/abs/1506.02438)  
   → Variance reduction technique for actor-critic methods, widely used with PPO.
+
+- [Actor-Critic Algorithms (Konda & Tsitsiklis, 1999)](https://proceedings.neurips.cc/paper_files/paper/1999/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)  
+  → Theoretical foundation of the actor-critic architecture in policy-based RL.
 ---
 
 ## 🔹 Federated Learning
