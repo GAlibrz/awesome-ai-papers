@@ -42,9 +42,10 @@ This serves as my personal learning log and a reference for others interested in
   → Deep Q-Network (DQN), combining deep learning with RL.  
 - [Proximal Policy Optimization (PPO) (Schulman et al., 2017)](https://arxiv.org/abs/1707.06347)  
   → Simple, stable, and efficient policy optimization.  
-  - [REINFORCE: Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning (Williams, 1992)](https://www.jmlr.org/papers/volume4/williams02a/williams02a.pdf)  
+- [REINFORCE: Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning (Williams, 1992)](https://www.jmlr.org/papers/volume4/williams02a/williams02a.pdf)  
   → Introduced REINFORCE algorithm, the foundation of policy gradient methods.
-  
+- [Trust Region Policy Optimization (TRPO, Schulman et al., 2015)](https://arxiv.org/abs/1502.05477)  
+  → Introduced KL-constrained updates for stable policy learning, precursor to PPO.
 
 ---
 
