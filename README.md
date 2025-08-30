@@ -46,7 +46,8 @@ This serves as my personal learning log and a reference for others interested in
   → Introduced REINFORCE algorithm, the foundation of policy gradient methods.
 - [Trust Region Policy Optimization (TRPO, Schulman et al., 2015)](https://arxiv.org/abs/1502.05477)  
   → Introduced KL-constrained updates for stable policy learning, precursor to PPO.
-
+- [Generalized Advantage Estimation (GAE, Schulman et al., 2015)](https://arxiv.org/abs/1506.02438)  
+  → Variance reduction technique for actor-critic methods, widely used with PPO.
 ---
 
 ## 🔹 Federated Learning
