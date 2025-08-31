@@ -12,6 +12,8 @@ This serves as my personal learning log and a reference for others interested in
   → ResNet, enabling very deep networks with skip connections.  
 - [Adam: A Method for Stochastic Optimization (Kingma & Ba, 2015)](https://arxiv.org/abs/1412.6980)  
   → Optimizer widely used for training neural networks.  
+- [Focal Loss for Dense Object Detection (Lin et al., 2017)](https://arxiv.org/abs/1708.02002)  
+  → Introduced focal loss to address class imbalance in dense detection tasks; core of RetinaNet.
 
 ---
 
