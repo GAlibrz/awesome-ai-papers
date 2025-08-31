@@ -65,6 +65,8 @@ This serves as my personal learning log and a reference for others interested in
 
 - [SimCLR: A Simple Framework for Contrastive Learning (Chen et al., 2020)](https://arxiv.org/abs/2002.05709)  
   → Landmark paper in contrastive self-supervised learning; strong results without labels.
+- [Rethinking the Inception Architecture for Computer Vision (Szegedy et al., 2016)](https://arxiv.org/abs/1512.00567)  
+  → Introduced label smoothing regularization to prevent overconfidence in classification; improves generalization.
 
 ---
 
