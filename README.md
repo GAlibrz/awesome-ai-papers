@@ -86,6 +86,9 @@ This serves as my personal learning log and a reference for others interested in
 - [Proximal Policy Optimization (PPO) (Schulman et al., 2017)](https://arxiv.org/abs/1707.06347)  
   → Simple, stable, and efficient policy optimization.  
 - [REINFORCE: Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning (Williams, 1992)](https://www.jmlr.org/papers/volume4/williams02a/williams02a.pdf)  
+- [Asynchronous Methods for Deep Reinforcement Learning (Mnih et al., 2016)](https://arxiv.org/abs/1602.01783)  
+  → A3C, massively parallel RL training, influential for scalability.  
+
   → Introduced REINFORCE algorithm, the foundation of policy gradient methods.
 - [Trust Region Policy Optimization (TRPO, Schulman et al., 2015)](https://arxiv.org/abs/1502.05477)  
   → Introduced KL-constrained updates for stable policy learning, precursor to PPO.
@@ -94,6 +97,12 @@ This serves as my personal learning log and a reference for others interested in
 
 - [Actor-Critic Algorithms (Konda & Tsitsiklis, 1999)](https://proceedings.neurips.cc/paper_files/paper/1999/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)  
   → Theoretical foundation of the actor-critic architecture in policy-based RL.
+
+- [Mastering the Game of Go with Deep Neural Networks and Tree Search (Silver et al., 2016)](https://www.nature.com/articles/nature16961)  
+  → AlphaGo, milestone in combining deep learning with MCTS.  
+
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (Silver et al., 2017)](https://arxiv.org/abs/1712.01815)  
+  → AlphaZero, general RL system surpassing human champions.  
 ---
 
 ## 🔹 Federated Learning
