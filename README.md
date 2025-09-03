@@ -131,10 +131,30 @@ This serves as my personal learning log and a reference for others interested in
 ---
 
 ## 🔹 Agentic AI & Multi-Agent Systems
-- [Voyager: An Open-Ended Embodied Agent (Wang et al., 2023)](https://arxiv.org/abs/2305.16291)  
-  → LLM-powered agent for continual learning in open worlds.  
-- [AutoGen: Enabling Next-Gen LLM Applications (Microsoft, 2023)](https://arxiv.org/abs/2308.08155)  
-  → Framework for multi-agent orchestration of LLMs.  
+
+- [ReAct: Synergizing Reasoning and Acting in Language Models (Yao et al., 2022)](https://arxiv.org/abs/2210.03629)  
+  → Introduced ReAct framework, combining reasoning traces and actions for decision-making agents.
+
+- [Toolformer: Language Models Can Teach Themselves to Use Tools (Schick et al., 2023)](https://arxiv.org/abs/2302.04761)  
+  → Self-supervised approach enabling LMs to decide *when and how* to call external tools.
+
+- [AutoGPT (Toran Bruce Richards, 2023)](https://github.com/Torantulino/Auto-GPT)  
+  → Popularized autonomous LLM agents that recursively plan and act using tools and memory.
+
+- [Voyager: An Open-Ended Embodied Agent with LLMs (Xu et al., 2023)](https://voyager.minedojo.org/)  
+  → Minecraft agent that autonomously explores, learns skills, and builds a curriculum using GPT-4.
+
+- [Plan-and-Solve Prompting: Leveraging Structured Plans for Complex Reasoning (Zhou et al., 2022)](https://arxiv.org/abs/2211.03544)  
+  → Uses explicit planning prompts to structure multi-step reasoning with LLMs.
+
+- [AutoAgents: Enabling LLMs to Operate Autonomously (Qin et al., 2023)](https://arxiv.org/abs/2303.16725)  
+  → Proposed a framework for multi-agent LLM systems with memory, reflection, and role delegation.
+
+- [BabyAGI (Yohei Nakajima, 2023)](https://github.com/yoheinakajima/babyagi)  
+  → A minimalistic autonomous task-management system using an LLM and vector database.
+
+- [Generative Agents: Interactive Simulacra of Human Behavior (Park et al., 2023)](https://arxiv.org/abs/2304.03442)  
+  → Simulated believable, memory-augmented agents in a sandbox world; foundation for agent-based simulations.
 
 ---
 
