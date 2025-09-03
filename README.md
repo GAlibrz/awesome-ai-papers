@@ -67,6 +67,23 @@ This serves as my personal learning log and a reference for others interested in
   → Landmark paper in contrastive self-supervised learning; strong results without labels.
 - [Rethinking the Inception Architecture for Computer Vision (Szegedy et al., 2016)](https://arxiv.org/abs/1512.00567)  
   → Introduced label smoothing regularization to prevent overconfidence in classification; improves generalization.
+- [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet, Krizhevsky et al., 2012)](https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)  
+  → Kicked off the deep learning era by winning ImageNet 2012 with CNNs and ReLU activation.
+
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (Ioffe & Szegedy, 2015)](https://arxiv.org/abs/1502.03167)  
+  → Introduced BatchNorm to stabilize and speed up training, now standard in almost all models.
+
+- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting (Srivastava et al., 2014)](https://jmlr.org/papers/v15/srivastava14a.html)  
+  → Regularization technique that randomly drops units during training to improve generalization.
+
+- [Rectified Linear Units Improve Restricted Boltzmann Machines (ReLU, Nair & Hinton, 2010)](https://www.cs.toronto.edu/~hinton/absps/reluICML.pdf)  
+  → Introduced ReLU activation, replacing sigmoid/tanh and enabling deeper networks.
+
+- [Attention is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs/1706.03762)  
+  → Introduced the Transformer architecture, foundational for modern deep learning models across modalities.
+
+- [Distilling the Knowledge in a Neural Network (Hinton et al., 2015)](https://arxiv.org/abs/1503.02531)  
+  → Introduced knowledge distillation, enabling smaller models to learn from larger teacher models.
 
 ---
 
