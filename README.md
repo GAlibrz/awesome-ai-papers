@@ -14,6 +14,8 @@ This serves as my personal learning log and a reference for others interested in
   → Optimizer widely used for training neural networks.  
 - [Focal Loss for Dense Object Detection (Lin et al., 2017)](https://arxiv.org/abs/1708.02002)  
   → Introduced focal loss to address class imbalance in dense detection tasks; core of RetinaNet.
+- [Understanding the Difficulty of Training Deep Feedforward Neural Networks (Glorot & Bengio, 2010)](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)  
+  → Introduced Xavier initialization, addressing vanishing/exploding gradients in deep networks.
 
 ---
 
