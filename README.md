@@ -97,6 +97,9 @@ This serves as my personal learning log and a reference for others interested in
 - [AutoGen: Enabling Next-Gen LLM Applications (Microsoft, 2023)](https://arxiv.org/abs/2308.08155)  
   → Multi-agent orchestration with LLMs.  
 
+- [Why Language Models Hallucinate (OpenAI, 2023)](https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf)  
+  → Analyzed the root causes of hallucination in LLMs; shows that overly strong priors and misaligned training objectives contribute significantly.
+
 ---
 
 ## 🔹 Reinforcement Learning
@@ -132,7 +135,7 @@ This serves as my personal learning log and a reference for others interested in
 
 ---
 
-## 🔹 LLM & Agentic AI & Multi-Agent Systems
+## 🔹 Agentic AI & Multi-Agent Systems
 
 - [ReAct: Synergizing Reasoning and Acting in Language Models (Yao et al., 2022)](https://arxiv.org/abs/2210.03629)  
   → Introduced ReAct framework, combining reasoning traces and actions for decision-making agents.
@@ -158,8 +161,7 @@ This serves as my personal learning log and a reference for others interested in
 - [Generative Agents: Interactive Simulacra of Human Behavior (Park et al., 2023)](https://arxiv.org/abs/2304.03442)  
   → Simulated believable, memory-augmented agents in a sandbox world; foundation for agent-based simulations.
 
-- [Why Language Models Hallucinate (OpenAI, 2023)](https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf)  
-  → Analyzed the root causes of hallucination in LLMs; shows that overly strong priors and misaligned training objectives contribute significantly.
+
 
 ---
 
