@@ -18,6 +18,8 @@ This serves as my personal learning log and a reference for others interested in
   → Introduced Xavier initialization, addressing vanishing/exploding gradients in deep networks.
 - [Long Short-Term Memory (Hochreiter & Schmidhuber, 1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)  
   → Introduced the LSTM architecture to overcome vanishing gradients in RNNs; widely used in sequence modeling before Transformers.
+- [Approximation by Superpositions of a Sigmoidal Function (Cybenko, 1989)](https://epubs.siam.org/doi/abs/10.1137/0149056)  
+  → Proved the Universal Approximation Theorem: a single hidden layer neural network with non-linear activations can approximate any continuous function.
 
 ---
 
