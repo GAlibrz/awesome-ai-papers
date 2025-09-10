@@ -114,7 +114,11 @@ This serves as my personal learning log and a reference for others interested in
 - [LogPrompt: Enhancing Log Anomaly Detection via Few-Shot Prompting with Large Language Models (Shen et al., 2023)](https://arxiv.org/abs/2305.11465)  
   → Shows that few-shot prompting with GPT-style LLMs can effectively identify anomalies in raw logs, outperforming some fine-tuned baselines.
 
+- [LogSummary: Abstractive Summarization of Log Reports with LLMs (Cao et al., 2023)](https://arxiv.org/abs/2308.13969)  
+  → Uses LLMs for automatic log summarization, bridging human-readable insights and raw logs for monitoring/debugging.
 
+- [LLM4Logs: Large Language Models are Zero-Shot Detectors for Logs (Sun et al., 2023)](https://arxiv.org/abs/2306.07071)  
+  → Proposes a framework where LLMs act as zero-shot classifiers for log sequences; no training required, prompt-only setup.
 
 ---
 
