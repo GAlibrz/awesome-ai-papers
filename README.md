@@ -111,6 +111,10 @@ This serves as my personal learning log and a reference for others interested in
 - [LogGPT: A Unified Generative Framework for Log Anomaly Detection and Diagnosis (Zhang et al., 2023)](https://arxiv.org/abs/2305.16291)  
   → Uses LLMs for both anomaly detection and root cause analysis in system logs. Introduces a pretraining-finetuning setup on synthetic and real-world logs.
 
+- [LogPrompt: Enhancing Log Anomaly Detection via Few-Shot Prompting with Large Language Models (Shen et al., 2023)](https://arxiv.org/abs/2305.11465)  
+  → Shows that few-shot prompting with GPT-style LLMs can effectively identify anomalies in raw logs, outperforming some fine-tuned baselines.
+
+
 
 ---
 
