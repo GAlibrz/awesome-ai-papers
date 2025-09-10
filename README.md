@@ -106,6 +106,14 @@ This serves as my personal learning log and a reference for others interested in
 
 ---
 
+## 🔹 LLMs for Log Analysis & Monitoring
+
+- [LogGPT: A Unified Generative Framework for Log Anomaly Detection and Diagnosis (Zhang et al., 2023)](https://arxiv.org/abs/2305.16291)  
+  → Uses LLMs for both anomaly detection and root cause analysis in system logs. Introduces a pretraining-finetuning setup on synthetic and real-world logs.
+
+
+---
+
 ## 🔹 Reinforcement Learning
 - [Human-level control through deep reinforcement learning (Mnih et al., 2015)](https://www.nature.com/articles/nature14236)  
   → Deep Q-Network (DQN), combining deep learning with RL.  
