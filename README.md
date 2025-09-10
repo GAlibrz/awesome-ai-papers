@@ -120,6 +120,8 @@ This serves as my personal learning log and a reference for others interested in
 - [LLM4Logs: Large Language Models are Zero-Shot Detectors for Logs (Sun et al., 2023)](https://arxiv.org/abs/2306.07071)  
   → Proposes a framework where LLMs act as zero-shot classifiers for log sequences; no training required, prompt-only setup.
 
+- [LogGLM: A Unified Generative Framework for Log Understanding with Large Language Models (Zhang et al., 2023)](https://arxiv.org/abs/2310.02225)  
+  → Proposes a unified generative model for log anomaly detection, summarization, and classification. Leverages a pretrained GLM backbone with domain adaptation for system log understanding.
 ---
 
 ## 🔹 Reinforcement Learning
