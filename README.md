@@ -161,6 +161,9 @@ This serves as my personal learning log and a reference for others interested in
 - [Advances and Open Problems in Federated Learning (Kairouz et al., 2019)](https://arxiv.org/abs/1912.04977)  
   → Comprehensive survey of challenges and directions.  
 
+- [Federated Optimization in Heterogeneous Networks (Li et al., 2020)](https://arxiv.org/abs/1812.06127)  
+  → Introduced FedProx, an extension of FedAvg designed to handle data and system heterogeneity—one of the biggest challenges in real-world FL.
+
 ---
 
 ## 🔹 Agentic AI & Multi-Agent Systems
