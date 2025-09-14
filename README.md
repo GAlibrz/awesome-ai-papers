@@ -150,6 +150,9 @@ This serves as my personal learning log and a reference for others interested in
 
 - [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor (Haarnoja et al., 2018)](https://arxiv.org/abs/1801.01290)  
   → Introduced entropy-regularized RL for better exploration and stability. SAC is a widely used off-policy actor-critic algorithm for continuous control.
+
+- [Decision Transformer: Reinforcement Learning via Sequence Modeling (Chen et al., 2021)](https://arxiv.org/abs/2106.01345)  
+  → Reformulates RL as a sequence modeling problem using transformers. Achieves strong results using supervised learning with trajectory return conditioning.
 ---
 
 ## 🔹 Federated Learning
