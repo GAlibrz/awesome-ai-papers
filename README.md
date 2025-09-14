@@ -164,6 +164,9 @@ This serves as my personal learning log and a reference for others interested in
 - [Federated Optimization in Heterogeneous Networks (Li et al., 2020)](https://arxiv.org/abs/1812.06127)  
   → Introduced FedProx, an extension of FedAvg designed to handle data and system heterogeneity—one of the biggest challenges in real-world FL.
 
+- [Adaptive Federated Optimization (Reddi et al., 2021)](https://arxiv.org/abs/2003.00295)  
+  → Proposed FedOpt, FedAdam, and FedYogi — server-side adaptive optimizers that significantly improve convergence and stability in federated settings.
+
 ---
 
 ## 🔹 Agentic AI & Multi-Agent Systems
