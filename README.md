@@ -147,6 +147,9 @@ This serves as my personal learning log and a reference for others interested in
 
 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (Silver et al., 2017)](https://arxiv.org/abs/1712.01815)  
   → AlphaZero, general RL system surpassing human champions.  
+
+- [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor (Haarnoja et al., 2018)](https://arxiv.org/abs/1801.01290)  
+  → Introduced entropy-regularized RL for better exploration and stability. SAC is a widely used off-policy actor-critic algorithm for continuous control.
 ---
 
 ## 🔹 Federated Learning
